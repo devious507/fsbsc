@@ -32,7 +32,7 @@ There are, however, considerable dignity considerations.
 IANA is requested to reserve TCP port 1987 for RoIPv6.
 Requests to reserve this port MUST be accompanied by a written apology.
 
-##5. Experimental Validation
+## 5. Experimental Validation
 The feasibility of RoIPv6 has been demonstrated through an uncontrolled field experiment involving a technically competent network administrator.
 
 The subject voluntarily established an IPv6 tunnel through Kansas City to access supposedly enhanced ASCII entertainment.
